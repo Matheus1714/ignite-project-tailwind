@@ -7,5 +7,15 @@
     },
     "editor.quickSuggestions": {
         "strings": true
+    },
+    "eslint.enable": true,
+    "eslint.format.enable": true,
+    "eslint.codeActionsOnSave.mode": "all",
+    "eslint.workingDirectories": ["./src"],
+    "editor.detectIndentation": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
     }
 }
